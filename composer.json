@@ -1,0 +1,17 @@
+{
+    "name": "tajimayuki/ci-tutorial-php",
+    "autoload": {
+        "psr-4": {
+            "Tajimayuki\\CiTutorialPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tajimayuki",
+            "email": "softte2su77@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.3"
+    }
+}
